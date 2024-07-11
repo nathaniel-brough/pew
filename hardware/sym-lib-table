@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RF_ARTIC")(type "KiCad")(uri "${KIPRJMOD}/RF_ARTIC.kicad_sym")(options "")(descr ""))
+  (lib (name "RF_Argos")(type "KiCad")(uri "${KIPRJMOD}/RF_Argos.kicad_sym")(options "")(descr ""))
+)
